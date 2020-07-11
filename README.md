@@ -1,2 +1,2 @@
 # RGBullsEye
-A SwiftUI starter project
+A simple project to learn about SwiftUI
